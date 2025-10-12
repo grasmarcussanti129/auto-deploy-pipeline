@@ -15,6 +15,3 @@
   },
   "notifications": {
     "slack_webhook_url": "https://hooks.slack.com/services/...",
-    "email_notifications_enabled": true
-  }
-}
