@@ -9,7 +9,7 @@
       "database": "staging_db"
     },
     "production": {
-      "url": "https://example.com",
+      "url": "https://www.example.com",
       "database": "prod_db"
     }
   },
