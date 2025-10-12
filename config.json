@@ -1,0 +1,20 @@
+{
+  "environments": {
+    "development": {
+      "url": "http://localhost:3000",
+      "database": "dev_db"
+    },
+    "staging": {
+      "url": "http://staging.example.com",
+      "database": "staging_db"
+    },
+    "production": {
+      "url": "http://example.com",
+      "database": "prod_db"
+    }
+  },
+  "notifications": {
+    "slack_webhook_url": "https://hooks.slack.com/services/...",
+    "email_notifications_enabled": true
+  }
+}
