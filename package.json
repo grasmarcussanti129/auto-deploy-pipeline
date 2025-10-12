@@ -1,11 +1,11 @@
 {
   "name": "auto-deploy-pipeline",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CI/CD solution for automated deployment",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo 'No tests yet!'"
+    "test": "echo 'No tests yet!'
   },
   "dependencies": {
     "express": "^4.17.1"
